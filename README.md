@@ -1,3 +1,5 @@
+[<img src="https://i.ytimg.com/vi/-6vke5IHjqs/maxresdefault.jpg">](https://www.youtube.com/watch?v=-6vke5IHjqs "TypeORM Modelagem Relacional #bancodedados #nodejs #typescript #postgres #mysql")
+
 Bancos de dados relacionais são extremamente comuns na construção de sistemas back-end, e o TypeORM vem ao resgate disponibilizando todas as ferramentas que você precisa pra gerenciar seu banco de dados em TypeScript, dentro da sua aplicação.
 
 🤔 Surge a dúvida: como garantir que a minha modelagem está preparada para o crescimento da aplicação, em termos de funcionalidades?
